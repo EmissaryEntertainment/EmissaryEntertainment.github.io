@@ -6,4 +6,4 @@ User-agent: CCBot
 Disallow: /
 User-agent: *
 Disallow:
-Sitemap: https://emissaryentertainment.net/sitemap.xml
+Sitemap: https://emissaryentertainment.github.io/sitemap.xml
